@@ -21,7 +21,7 @@
       </v-col>
     </v-row>
     <v-row>
-      <v-col>
+      <v-col style="text-align: center">
         <v-btn @click="calculo"> Submit </v-btn>
       </v-col>
     </v-row>
